@@ -22,23 +22,25 @@ title: Alvinleenh Piano
 email: alvinleenh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Alvinleenh.github.io
-  This pages is under development and migration from https://alvinleenh.wixsite.com/piano
+  This pages is under development and migration from [Wixsite](https://alvinleenh.wixsite.com/piano)
 
-  Basic Roadmap for 2021/2022
-  Q4-2021 Migration of basic content from original website, add search function, link to custom domain, restruture the website (with teams, review tabs)
-  Q1-2022 Include membership option, affiliate program
-  Q2-2022 Automated update in email/patreon/FB/Instragram
-  Q3-2022 Potential Online courses offering
-
-  Please contact alvinleenh@gmail.com for any inquiries
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Alvinleenh
+linkedin_username: Alvin Lee Neam Heng
+instagram_username: Alvinleenhpiano
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Social network links
+social-network-links:
+  email: "alvinleenh@gmail.com"
+  github: alvinleenh
+  youtube: c/alvinleenh
+  instagram: alvinleenhpiano
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -48,14 +50,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
