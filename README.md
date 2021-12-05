@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Alvinleenh.github.io
 
-You can use the [editor on GitHub](https://github.com/Alvinleenh/Alvinleenh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This pages is under development and migration from https://alvinleenh.wixsite.com/piano
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Basic Roadmap for 2021/2022
 
-### Markdown
+Q4-2021: Migration of basic content from original website, add search function, link to custom domain, restruture the website (with teams, review tabs)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Q1-2022: Include membership option, affiliate program
 
-```markdown
-Syntax highlighted code block
+Q2-2022: Automated update in email/patreon/FB/Instragram
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alvinleenh/Alvinleenh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Q3-2022: Potential Online courses offering
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please contact alvinleenh@gmail.com for any inquiries
