@@ -11,7 +11,7 @@ layout: home
 2. Download free piano sheet  
 3. Subscribe to [AlvinleenhPiano](https://www.youtube.com/c/alvinleenh)
 
-## Discover your favourite songs [now](/freepianosheet)
+## Discover your favourite songs [now](/pianosheet)
 
 ## Request for new songs
 Please contact alvinleenh@gmail.com, RM20 for each easy piano sheet  
